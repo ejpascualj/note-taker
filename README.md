@@ -20,7 +20,7 @@ https://github.com/ejpascualj/note-taker
 
 ## Development & Features
 
-This application uses and Express.js back end, and saves and retreives notes date from a JSON file.
+This application uses and Express.js back end, and saves and retreives notes data from a JSON database.
 
 ## License
 
