@@ -18,7 +18,7 @@ https://note-taker-ejpascualj.herokuapp.com/
 
 ## Application Demo
 
-![Note Taker app demo.](.\assets\note-taker-demo-01.gif)
+![Note Taker app demo.](./assets/note-taker-demo-01.gif)
 
 video: https://drive.google.com/file/d/16422S8u0rU7un9hTE_E9YqjEfYt-Jm_F/view
 
